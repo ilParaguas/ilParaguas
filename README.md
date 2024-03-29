@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Francisco Javier Martínez</h1>
 <h3 align="center">A fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on **React and Typescript projects**
+- 🔭 I’m currently working on **React and Typescript projects and starter level Node projects**
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **React, Typescript, SQL and Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilParaguas](https://github.com/ilParaguas)
 
-- 📝 I also make 3D and 2D projects, available at [https://javic9165.wixsite.com/portfolio/](https://javic9165.wixsite.com/portfolio/)
+- 📝 I also make 3D and 2D modelling projects, available at [https://javic9165.wixsite.com/portfolio/](https://javic9165.wixsite.com/portfolio/)
 
 - 📫 How to reach me **javic9165@gmail.com**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Francisco Javier Martínez</h1>
 <h3 align="center">A fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on **React and Typescript projects and starter level Node projects**
+- 🔭 I have recently finished a **Full-stack bootcamp with Develhope**
 
-- 🌱 I’m currently learning **React, Typescript, SQL and Node**
+- 🌱 I have experience with **HTML, CSS, JavaScript, React, Typescript, SQL and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilParaguas](https://github.com/ilParaguas)
 

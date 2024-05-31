@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **javic9165@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s5_8Ype3D9a9KNKqWgclGyAONhYn3iFw/view?usp=sharing](https://drive.google.com/file/d/1s5_8Ype3D9a9KNKqWgclGyAONhYn3iFw/view?usp=sharing)
+- 📄 Know about my experiences:
+- Spanish CV [https://drive.google.com/file/d/1s5_8Ype3D9a9KNKqWgclGyAONhYn3iFw/view?usp=sharing](https://drive.google.com/file/d/1s5_8Ype3D9a9KNKqWgclGyAONhYn3iFw/view?usp=sharing)
+- English CV [https://drive.google.com/file/d/1s5_8Ype3D9a9KNKqWgclGyAONhYn3iFw/view?usp=sharing](https://drive.google.com/file/d/1-m6SvbSZfPIwiHue1hEz6822pu4af8yC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
